@@ -1,4 +1,4 @@
 <Response>
   <Say voice="alice">Urgent call from MSC DevOps!</Say>
-  <Play>https://github.com/igalane/test/blob/master/Recording.m4a</Play>
+  <Play>https://github.com/igalane/test/blob/master/Recording.mp3</Play>
 </Response>
